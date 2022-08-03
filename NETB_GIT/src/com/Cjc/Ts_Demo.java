@@ -10,6 +10,10 @@ public class Ts_Demo
 	{
 		System.out.println("Ishwar")
 	}
+	public void m3()
+	{
+		System.out.println("Kasabe")
+	}
 	public static void main(String[] args) 
 	{
 	   System.out.println("Hello World");	
