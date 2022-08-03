@@ -14,6 +14,10 @@ public class Ts_Demo
 	{
 		System.out.println("Kasabe")
 	}
+	public void m4()
+	{
+		System.out.println("Cjc")
+	}
 	public static void main(String[] args) 
 	{
 	   System.out.println("Hello World");	
